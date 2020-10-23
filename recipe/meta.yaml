@@ -1,6 +1,9 @@
+# Originally based on this recipe:
+#  https://anaconda.org/HCC/midnight-commander/files
+
 {% set name = "midnight-commander" %}
-{% set version = "4.8.22" %}
-{% set sha256 = "8d9f1c75369967adfd317a05fef9861444ed049b033e4debaeaafc6df218b431" %}
+{% set version = "4.8.25" %}
+{% set sha256 = "407dc20f70082f26c7f5716406cb755cbb6cba3f2f13b841b79a991282d310c2" %}
 
 package:
   name: {{ name }}
