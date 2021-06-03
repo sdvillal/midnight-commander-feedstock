@@ -1,9 +1,10 @@
 # Originally based on this recipe:
 #  https://anaconda.org/HCC/midnight-commander/files
+#  https://github.com/unlhcc/hcc-conda-recipes/tree/master/recipes/midnight-commander
 
 {% set name = "midnight-commander" %}
-{% set version = "4.8.25" %}
-{% set sha256 = "407dc20f70082f26c7f5716406cb755cbb6cba3f2f13b841b79a991282d310c2" %}
+{% set version = "4.8.26" %}
+{% set sha256 = "9d6358d0a351a455a1410aab57f33b6b48b0fcf31344b9a10b0ff497595979d1" %}
 
 package:
   name: {{ name }}
