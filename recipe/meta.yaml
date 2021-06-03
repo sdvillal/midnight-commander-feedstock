@@ -1,6 +1,8 @@
 # Originally based on this recipe:
 #  https://anaconda.org/HCC/midnight-commander/files
 #  https://github.com/unlhcc/hcc-conda-recipes/tree/master/recipes/midnight-commander
+# Arch linux recipe:
+#  https://github.com/archlinux/svntogit-community/tree/packages/mc/trunk
 
 {% set name = "midnight-commander" %}
 {% set version = "4.8.26" %}
